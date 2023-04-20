@@ -1,0 +1,42 @@
+*{
+    padding: 2rem;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+
+
+
+.btn{
+    width: 8rem;
+    
+}
+
+.btn1{
+    margin-left: 28rem;
+}
+
+.images{
+    margin: 0 auto 10rem;
+    width: 30rem;
+    height: 30rem;
+    position: absolute;
+    align-items: center;
+
+
+}
+
+
+.container{
+
+height: 30rem;
+width: 30rem;
+
+
+}
+
+.i1{
+    z-index: 2;
+}
+
